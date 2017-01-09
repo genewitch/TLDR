@@ -1,7 +1,7 @@
 
 ; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR bb. @ns2.barbadosdomain.net. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
-bb.			86400	IN	SOA	ns1.barbadosdomain.net. hostmaster.barbadosdomain.net. 2008031450 3600 1800 604800 43200
+bb.			86400	IN	SOA	ns1.barbadosdomain.net. hostmaster.barbadosdomain.net. 2008031589 3600 1800 604800 43200
 bb.			86400	IN	NS	ns1.barbadosdomain.net.
 bb.			86400	IN	NS	ns2.barbadosdomain.net.
 000.bb.			86400	IN	NS	a.dnspod.com.
@@ -2459,6 +2459,8 @@ apexconstruction.bb.	86400	IN	NS	ns1.fsglobalhost.com.
 apexconstruction.bb.	86400	IN	NS	ns2.fsglobalhost.com.
 apexsales.bb.		86400	IN	NS	ns1.siteground119.com.
 apexsales.bb.		86400	IN	NS	ns2.siteground119.com.
+apolloreinsurance.bb.	86400	IN	NS	ns1.nikoniqdesigns.com.
+apolloreinsurance.bb.	86400	IN	NS	ns2.nikoniqdesigns.com.
 app.bb.			86400	IN	NS	a.dnspod.com.
 app.bb.			86400	IN	NS	b.dnspod.com.
 app.bb.			86400	IN	NS	c.dnspod.com.
@@ -2472,8 +2474,8 @@ ariston.bb.		86400	IN	NS	ns.dominiando.us.
 ariston.bb.		86400	IN	NS	ns.dominiando.asia.
 art.bb.			86400	IN	NS	ns01.trademarkarea.com.
 art.bb.			86400	IN	NS	ns02.trademarkarea.com.
-ascensia.bb.		86400	IN	NS	pdns1.cscdns.net.
-ascensia.bb.		86400	IN	NS	pdns2.cscdns.net.
+ascensia.bb.		86400	IN	NS	dns1.cscdns.net.
+ascensia.bb.		86400	IN	NS	dns2.cscdns.net.
 ascensiadiabetescare.bb. 86400	IN	NS	dns1.cscdns.net.
 ascensiadiabetescare.bb. 86400	IN	NS	dns2.cscdns.net.
 aseabrownboveri.bb.	86400	IN	NS	nse1.abb.com.
@@ -2482,6 +2484,8 @@ aseabrownboveri.bb.	86400	IN	NS	nse3.abb.com.
 asg.bb.			86400	IN	NS	ns01.trademarkarea.com.
 asg.bb.			86400	IN	NS	ns02.trademarkarea.com.
 asg.bb.			86400	IN	NS	ns03.trademarkarea.com.
+ashley.bb.		86400	IN	NS	dns1.cscdns.net.
+ashley.bb.		86400	IN	NS	dns2.cscdns.net.
 ask.bb.			86400	IN	NS	ns1.askbarbados.com.
 ask.bb.			86400	IN	NS	ns2.askbarbados.com.
 atstennis.bb.		86400	IN	NS	ns1.dreamhost.com.
@@ -2499,8 +2503,10 @@ awesome.bb.		86400	IN	NS	dns1348-1.nexcess.net.
 awesome.bb.		86400	IN	NS	dns1348-2.nexcess.net.
 axiom.bb.		86400	IN	NS	ns1.telebarbados.com.
 axiom.bb.		86400	IN	NS	ns2.telebarbados.com.
-b2b.bb.			86400	IN	NS	name1.sunbeach.net.
-b2b.bb.			86400	IN	NS	name2.sunbeach.net.
+b2b.bb.			86400	IN	NS	ns1.partsinc.biz.
+b2b.bb.			86400	IN	NS	ns2.partsinc.biz.
+b2b.bb.			86400	IN	NS	ns3.partsinc.biz.
+b2b.bb.			86400	IN	NS	ns4.partsinc.biz.
 baakensvalley.bb.	86400	IN	NS	h21ns1.axxesslocal.co.za.
 baakensvalley.bb.	86400	IN	NS	h21ns2.axxesslocal.co.za.
 baba.bb.		86400	IN	NS	a.dnspod.com.
@@ -2561,8 +2567,8 @@ barbadosworldheritage.bb. 86400	IN	NS	ns1.fsglobalhost.com.
 barbadosworldheritage.bb. 86400	IN	NS	ns2.fsglobalhost.com.
 barclayssingaporeopen.bb. 86400	IN	NS	ns1.netnames.net.
 barclayssingaporeopen.bb. 86400	IN	NS	ns2.netnames.net.
-barco.bb.		86400	IN	NS	ns1.siteground124.com.
-barco.bb.		86400	IN	NS	ns2.siteground124.com.
+barco.bb.		86400	IN	NS	ns1.siteground365.com.
+barco.bb.		86400	IN	NS	ns2.siteground365.com.
 barteachcredit.bb.	86400	IN	NS	ns1.fsglobalhost.com.
 barteachcredit.bb.	86400	IN	NS	ns2.fsglobalhost.com.
 basi.bb.		86400	IN	NS	ns671.hostgator.com.
@@ -2610,6 +2616,8 @@ bbin.bb.		86400	IN	NS	a.dnspod.com.
 bbin.bb.		86400	IN	NS	b.dnspod.com.
 BBL.bb.			86400	IN	NS	pns1.cloudns.net.
 BBL.bb.			86400	IN	NS	pns4.cloudns.net.
+bbnog.bb.		86400	IN	NS	ns8333.hostgator.com.
+bbnog.bb.		86400	IN	NS	ns8334.hostgator.com.
 bbq.bb.			86400	IN	NS	a.dnspod.com.
 bbq.bb.			86400	IN	NS	b.dnspod.com.
 bbs.bb.			86400	IN	NS	a.dnspod.com.
@@ -2747,10 +2755,10 @@ bncpta.bb.		86400	IN	NS	ns01.domaincontrol.com.
 bncpta.bb.		86400	IN	NS	ns02.domaincontrol.com.
 bnfinc.bb.		86400	IN	NS	ns1.mediatemple.net.
 bnfinc.bb.		86400	IN	NS	ns2.mediatemple.net.
-bnsi.bb.		86400	IN	NS	ns1.thewebservers.net.
-bnsi.bb.		86400	IN	NS	ns2.thewebservers.net.
 bnsi.bb.		86400	IN	TXT	"ns1.thewebservers.net."
 bnsi.bb.		86400	IN	TXT	"ns2.thewebservers.net."
+bnsi.bb.		86400	IN	NS	ns1.thewebservers.net.
+bnsi.bb.		86400	IN	NS	ns2.thewebservers.net.
 bodog.bb.		86400	IN	NS	pns1.cloudns.net.
 bodog.bb.		86400	IN	NS	pns4.cloudns.net.
 bodog.bb.		86400	IN	NS	pns7.cloudns.net.
@@ -2814,6 +2822,8 @@ caipiao.bb.		86400	IN	NS	ns2.dnsdate.com.
 caipiao.bb.		86400	IN	NS	ns3.dnsdate.com.
 campus.bb.		86400	IN	NS	ns01.trademarkarea.com.
 campus.bb.		86400	IN	NS	ns02.trademarkarea.com.
+canadalife.bb.		86400	IN	NS	ns1.telebarbados.com.
+canadalife.bb.		86400	IN	NS	ns2.telebarbados.com.
 canadalifere.bb.	86400	IN	NS	ns1.telebarbados.com.
 canadalifere.bb.	86400	IN	NS	ns2.telebarbados.com.
 candw.bb.		86400	IN	NS	col1.caribsurf.com.
@@ -2846,6 +2856,8 @@ casa.bb.		86400	IN	NS	col1.caribsurf.com.
 casa.bb.		86400	IN	NS	col2.caribsurf.com.
 casino.bb.		86400	IN	NS	f1g1ns1.dnspod.net.
 casino.bb.		86400	IN	NS	f1g1ns2.dnspod.net.
+casino66.bb.		86400	IN	NS	ns1.dnsdate.com.
+casino66.bb.		86400	IN	NS	ns2.dnsdate.com.
 cat.bb.			86400	IN	NS	a.dnspod.com.
 cat.bb.			86400	IN	NS	b.dnspod.com.
 cbc.bb.			86400	IN	NS	col1.caribsurf.com.
@@ -2871,13 +2883,13 @@ ccl.bb.			86400	IN	NS	ns1.246host.net.
 ccl.bb.			86400	IN	NS	ns2.246host.net.
 cell.bb.		86400	IN	TXT	"ns1.dreamhost.com."
 cell.bb.		86400	IN	TXT	"ns2.dreamhost.com."
-cena.bb.		86400	IN	NS	ns1.bb-online.net.
-cena.bb.		86400	IN	NS	ns2.bb-online.net.
 cge.bb.			86400	IN	NS	ns1.telebarbados.com.
 cge.bb.			86400	IN	NS	ns2.telebarbados.com.
 cha.bb.			86400	IN	NS	pns1.cloudns.net.
 cha.bb.			86400	IN	NS	pns4.cloudns.net.
 cha.bb.			86400	IN	NS	pns7.cloudns.net.
+chalkymountwes.bb.	86400	IN	NS	ns17.domaincontrol.com.
+chalkymountwes.bb.	86400	IN	NS	ns18.domaincontrol.com.
 chancerylaw.bb.		86400	IN	NS	ns1.telebarbados.com.
 chancerylaw.bb.		86400	IN	NS	ns2.telebarbados.com.
 charthouse.bb.		86400	IN	NS	ns8519.hostgator.com.
@@ -2985,12 +2997,14 @@ commerce.bb.		86400	IN	NS	ns1.markmonitor.com.
 commerce.bb.		86400	IN	NS	ns3.markmonitor.com.
 commerce.bb.		86400	IN	NS	ns4.markmonitor.com.
 commerce.bb.		86400	IN	NS	ns5.markmonitor.com.
-connoisseur.bb.		86400	IN	NS	ns1.thewebservers.net.
-connoisseur.bb.		86400	IN	NS	ns2.thewebservers.net.
+connoisseur.bb.		86400	IN	NS	ns9.caribyte.net.
+connoisseur.bb.		86400	IN	NS	ns10.caribyte.net.
 contact.bb.		86400	IN	NS	col1.caribsurf.com.
 contact.bb.		86400	IN	NS	col2.caribsurf.com.
-containerservices.bb.	86400	IN	NS	ns.voxel.net.
-containerservices.bb.	86400	IN	NS	ns2.voxel.net.
+containerservices.bb.	86400	IN	NS	ns-34.awsdns-04.com.
+containerservices.bb.	86400	IN	NS	ns-867.awsdns-44.net.
+containerservices.bb.	86400	IN	NS	ns-1466.awsdns-55.org.
+containerservices.bb.	86400	IN	NS	ns-1780.awsdns-30.co.uk.
 containersplus.bb.	86400	IN	NS	no1.nameyet.
 containersplus.bb.	86400	IN	NS	no2.nameyet.
 convatec.bb.		86400	IN	NS	dns.cscdns.net.
@@ -3104,8 +3118,8 @@ disk.bb.		86400	IN	NS	a.dnspod.com.
 disk.bb.		86400	IN	NS	b.dnspod.com.
 diy.bb.			86400	IN	NS	a.dnspod.com.
 diy.bb.			86400	IN	NS	b.dnspod.com.
-djv.bb.			86400	IN	NS	ns.namespace4you.de.bb.
-djv.bb.			86400	IN	NS	ns2.namespace4you.de.bb.
+djv.bb.			86400	IN	NS	ns.namespace4you.de.
+djv.bb.			86400	IN	NS	ns2.namespace4you.de.
 dmi.bb.			86400	IN	NS	ns1.bsandtco.com.
 dmi.bb.			86400	IN	NS	ns2.bsandtco.com.
 dmrc.bb.		86400	IN	NS	ns1.hostek.com.
@@ -3124,6 +3138,8 @@ dpc.bb.			86400	IN	NS	ns1.telebarbados.com.
 dpc.bb.			86400	IN	NS	ns2.telebarbados.com.
 driftwood.bb.		86400	IN	NS	ns1.point2.com.
 driftwood.bb.		86400	IN	NS	ns2.point2.com.
+dsi.bb.			86400	IN	NS	ns1.ezhostingserver.com.
+dsi.bb.			86400	IN	NS	ns2.ezhostingserver.com.
 duchang.bb.		86400	IN	NS	pns1.cloudns.net.
 duchang.bb.		86400	IN	NS	pns4.cloudns.net.
 duchang.bb.		86400	IN	NS	pns7.cloudns.net.
@@ -3147,8 +3163,8 @@ eco.bb.			86400	IN	NS	ns1.reliabledns.org.
 eco.bb.			86400	IN	NS	ns2.reliabledns.org.
 ecohesion.bb.		86400	IN	NS	ns1.dreamhost.com.
 ecohesion.bb.		86400	IN	NS	ns2.dreamhost.com.
-economicinsight.bb.	86400	IN	NS	ns3.telebarbados.com.
-economicinsight.bb.	86400	IN	NS	ns4.telebarbados.com.
+economicinsight.bb.	86400	IN	NS	ns1.telebarbados.com.
+economicinsight.bb.	86400	IN	NS	ns2.telebarbados.com.
 ecustoms.bb.		86400	IN	NS	ns3.bellglobal.com.
 ecustoms.bb.		86400	IN	NS	ns4.bellglobal.com.
 eddo.bb.		86400	IN	NS	ns1.ipage.com.
@@ -3238,6 +3254,8 @@ fairmonthotels.bb.	86400	IN	NS	ns1.netnames.net.
 fairmonthotels.bb.	86400	IN	NS	ns2.netnames.net.
 fairmontroyalpavilion.bb. 86400	IN	NS	ns1.netnames.net.
 fairmontroyalpavilion.bb. 86400	IN	NS	ns2.netnames.net.
+falconreinsurance.bb.	86400	IN	NS	ns1.nikoniqdesigns.com.
+falconreinsurance.bb.	86400	IN	NS	ns2.nikoniqdesigns.com.
 fan.bb.			86400	IN	NS	a.dnspod.com.
 fan.bb.			86400	IN	NS	b.dnspod.com.
 fang.bb.		86400	IN	NS	a.dnspod.com.
@@ -3294,6 +3312,9 @@ football.bb.		86400	IN	NS	ns-414.awsdns-51.com.
 football.bb.		86400	IN	NS	ns-604.awsdns-11.net.
 football.bb.		86400	IN	NS	ns-1241.awsdns-27.org.
 football.bb.		86400	IN	NS	ns-1804.awsdns-33.co.uk.
+forcepoint.bb.		86400	IN	NS	dns1.ladasdomains.com.
+forcepoint.bb.		86400	IN	NS	dns2.ladasdomains.com.
+forcepoint.bb.		86400	IN	NS	dns3.ladasdomains.com.
 formwork.bb.		86400	IN	NS	ns1.dreamhost.com.
 formwork.bb.		86400	IN	NS	ns2.dreamhost.com.
 forsale.bb.		86400	IN	NS	ns3077.hostgator.com.
@@ -3316,22 +3337,26 @@ freemotion.bb.		86400	IN	NS	ns2.telebarbados.com.
 freshvitamins.bb.	86400	IN	NS	ns3.nutracorp.com.
 freshvitamins.bb.	86400	IN	NS	ns4.nutracorp.com.
 freshvitamins.bb.	86400	IN	NS	ns5.nutracorp.com.
+freshxpress.bb.		86400	IN	NS	ns1.justhost.com.
+freshxpress.bb.		86400	IN	NS	ns2.justhost.com.
 fronthousemarketing.bb.	86400	IN	NS	col1.caribsurf.com.
 fronthousemarketing.bb.	86400	IN	NS	col2.caribsurf.com.
 frontline.bb.		86400	IN	NS	ns1.roderic.nl.
 frontline.bb.		86400	IN	NS	ns2.roderic.nl.
 fujitsu.bb.		86400	IN	NS	rns1.rightsdns.com.
 fujitsu.bb.		86400	IN	NS	rns2.rightsdns.com.
-fulltilt.bb.		86400	IN	NS	pdns1.ultradns.net.
-fulltilt.bb.		86400	IN	NS	pdns2.ultradns.net.
 fulltilt.bb.		86400	IN	TXT	"pdns1.utradns.net."
 fulltilt.bb.		86400	IN	TXT	"pdns2.utradns.net."
-fulltiltpoker.bb.	86400	IN	NS	pdns1.ultradns.net.
-fulltiltpoker.bb.	86400	IN	NS	pdns2.ultradns.net.
+fulltilt.bb.		86400	IN	NS	pdns1.ultradns.net.
+fulltilt.bb.		86400	IN	NS	pdns2.ultradns.net.
 fulltiltpoker.bb.	86400	IN	TXT	"pdns1.utradns.net."
 fulltiltpoker.bb.	86400	IN	TXT	"pdns2.utradns.net."
+fulltiltpoker.bb.	86400	IN	NS	pdns1.ultradns.net.
+fulltiltpoker.bb.	86400	IN	NS	pdns2.ultradns.net.
 fund.bb.		86400	IN	NS	a.dnspod.com.
 fund.bb.		86400	IN	NS	b.dnspod.com.
+ashley.furniture.bb.	86400	IN	NS	dns1.cscdns.net.
+ashley.furniture.bb.	86400	IN	NS	dns2.cscdns.net.
 g4s.bb.			86400	IN	NS	pdns1.safenames.net.
 g4s.bb.			86400	IN	NS	pdns2.safenames.net.
 g4s.bb.			86400	IN	NS	pdns3.safenames.net.
@@ -3424,6 +3449,9 @@ group4securicor.bb.	86400	IN	NS	pdns3.safenames.net.
 group4securicor.bb.	86400	IN	NS	pdns4.safenames.net.
 group4securicor.bb.	86400	IN	NS	pdns5.safenames.net.
 group4securicor.bb.	86400	IN	NS	pdns6.safenames.net.
+groupga.bb.		86400	IN	NS	ns01.trademarkarea.com.
+groupga.bb.		86400	IN	NS	ns02.trademarkarea.com.
+groupga.bb.		86400	IN	NS	ns03.trademarkarea.com.
 growingthings.bb.	86400	IN	NS	col1.caribsurf.com.
 growingthings.bb.	86400	IN	NS	col2.caribsurf.com.
 guai.bb.		86400	IN	NS	pns1.cloudns.net.
@@ -3440,6 +3468,8 @@ h2o.bb.			86400	IN	NS	ns1.dreamhost.com.
 h2o.bb.			86400	IN	NS	ns2.dreamhost.com.
 hai.bb.			86400	IN	NS	a.dnspod.com.
 hai.bb.			86400	IN	NS	b.dnspod.com.
+haitao.bb.		86400	IN	NS	ns1.dnsdate.com.
+haitao.bb.		86400	IN	NS	ns2.dnsdate.com.
 hamptonchambers.bb.	86400	IN	NS	col1.caribsurf.com.
 hamptonchambers.bb.	86400	IN	NS	col2.caribsurf.com.
 hao.bb.			86400	IN	NS	a.dnspod.com.
@@ -3487,8 +3517,8 @@ hkw.bb.			86400	IN	NS	pns1.cloudns.net.
 hkw.bb.			86400	IN	NS	pns4.cloudns.net.
 hkw.bb.			86400	IN	NS	pns7.cloudns.net.
 hnw.bb.			86400	IN	NS	pns1.cloudns.net.
-hobbsniles.bb.		86400	IN	NS	ns1.royaltyservers.com.
-hobbsniles.bb.		86400	IN	NS	ns2.royaltyservers.com.
+hobbsniles.bb.		86400	IN	NS	ns8333.hostgator.com.
+hobbsniles.bb.		86400	IN	NS	ns8334.hostgator.com.
 holder.bb.		86400	IN	NS	ch.ch-inter.net.
 holder.bb.		86400	IN	NS	de.ch-inter.net.
 holder.bb.		86400	IN	NS	nl.ch-inter.net.
@@ -3554,8 +3584,8 @@ ibreinsurance.bb.	86400	IN	NS	ns1.101domain.com.
 ibreinsurance.bb.	86400	IN	NS	ns5.101domain.com.
 ibreinsuranceinc.bb.	86400	IN	NS	ns1.101domain.com.
 ibreinsuranceinc.bb.	86400	IN	NS	ns5.101domain.com.
-ibs.bb.			86400	IN	NS	ns9.caribyte.net.
-ibs.bb.			86400	IN	NS	ns10.caribyte.net.
+ibs.bb.			86400	IN	NS	ns1.websitehostserver.net.
+ibs.bb.			86400	IN	NS	ns2.websitehostserver.net.
 icab.bb.		86400	IN	NS	ns1.dreamhost.com.
 icab.bb.		86400	IN	NS	ns2.dreamhost.com.
 icab.bb.		86400	IN	NS	ns3.dreamhost.com.
@@ -3621,8 +3651,12 @@ islandheritageinsurance.bb. 86400 IN	NS	pdns01.domaincontrol.com.
 islandheritageinsurance.bb. 86400 IN	NS	pdns02.domaincontrol.com.
 islandsafari.bb.	86400	IN	NS	ns1.sungroupinc.net.
 islandsafari.bb.	86400	IN	NS	ns2.mendesco.net.
+isoc.bb.		86400	IN	NS	ns11.domaincontrol.com.
+isoc.bb.		86400	IN	NS	ns12.domaincontrol.com.
 italk.bb.		86400	IN	NS	ns1.telebarbados.com.
 italk.bb.		86400	IN	NS	ns2.telebarbados.com.
+itb.bb.			86400	IN	NS	ns2.intermedia.net.
+itb.bb.			86400	IN	NS	ns3.intermedia.net.
 itunesradio.bb.		86400	IN	NS	dns1.cscdns.net.
 itunesradio.bb.		86400	IN	NS	dns2.cscdns.net.
 iuic.bb.		86400	IN	NS	ns1.bb-online.net.
@@ -3680,8 +3714,6 @@ jsh.bb.			86400	IN	NS	pns7.cloudns.net.
 jsw.bb.			86400	IN	NS	pns1.cloudns.net.
 jsw.bb.			86400	IN	NS	pns4.cloudns.net.
 jsw.bb.			86400	IN	NS	pns7.cloudns.net.
-jumeirah.bb.		86400	IN	NS	a4.nstld.com.
-jumeirah.bb.		86400	IN	NS	f4.nstld.com.
 jumeirah.bb.		86400	IN	NS	g4.nstld.com.
 jumeirah.bb.		86400	IN	NS	l4.nstld.com.
 jxw.bb.			86400	IN	NS	pns1.cloudns.net.
@@ -3735,7 +3767,7 @@ kyocera.bb.		86400	IN	NS	dns1.idp365.net.
 kyocera.bb.		86400	IN	NS	dns2.idp365.net.
 kyoceradocumentsolutions.bb. 86400 IN	NS	dns1.idp365.net.
 kyoceradocumentsolutions.bb. 86400 IN	NS	dns2.idp365.net.
-labofforwardthinking.bb. 86400	IN	NS	a.4.nstld.com.
+labofforwardthinking.bb. 86400	IN	NS	a4.nstld.com.
 labofforwardthinking.bb. 86400	IN	NS	f4.nstld.com.
 labofforwardthinking.bb. 86400	IN	NS	g4.nstld.com.
 lai.bb.			86400	IN	NS	a.dnspod.com.
@@ -3813,8 +3845,8 @@ love.bb.		86400	IN	NS	f1g1ns1.dnspod.net.
 love.bb.		86400	IN	NS	f1g1ns2.dnspod.net.
 lover.bb.		86400	IN	NS	a.dnspod.com.
 lover.bb.		86400	IN	NS	b.dnspod.com.
-lowvig.bb.		86400	IN	NS	dns1.idp365.net.
-lowvig.bb.		86400	IN	NS	dns2.idp365.net.
+lpecu.bb.		86400	IN	NS	ns47.domaincontrol.com.
+lpecu.bb.		86400	IN	NS	ns48.domaincontrol.com.
 ltc.bb.			86400	IN	NS	pns1.cloudns.net.
 ltc.bb.			86400	IN	NS	pns4.cloudns.net.
 ltc.bb.			86400	IN	NS	pns7.cloudns.net.
@@ -3823,11 +3855,16 @@ lucky.bb.		86400	IN	NS	pns4.cloudns.net.
 lucky.bb.		86400	IN	NS	pns7.cloudns.net.
 luckyhorseshoe.bb.	86400	IN	NS	ns1.telebarbados.com.
 luckyhorseshoe.bb.	86400	IN	NS	ns2.telebarbados.com.
+lumee.bb.		86400	IN	NS	ns01.trademarkarea.com.
+lumee.bb.		86400	IN	NS	ns02.trademarkarea.com.
+lumee.bb.		86400	IN	NS	ns03.trademarkarea.com.
 lumilor.bb.		86400	IN	NS	ns01.trademarkarea.com.
 lumilor.bb.		86400	IN	NS	ns02.trademarkarea.com.
 lumilor.bb.		86400	IN	NS	ns03.trademarkarea.com.
 lushlife.bb.		86400	IN	NS	ns1.jillandee.net.
 lushlife.bb.		86400	IN	NS	ns2.jillandee.net.
+luxespaces.bb.		86400	IN	NS	ns1.p10.dynect.net.
+luxespaces.bb.		86400	IN	NS	ns2.p10.dynect.net.
 luxspaces.bb.		86400	IN	NS	ns1.dreamhost.com.
 luxspaces.bb.		86400	IN	NS	ns2.dreamhost.com.
 luxury.bb.		86400	IN	NS	ns1.p10.dynect.net.
@@ -3932,8 +3969,6 @@ mgm.bb.			86400	IN	NS	f1g1ns2.dnspod.net.
 mhm.bb.			86400	IN	NS	ch.ch-inter.net.
 mhm.bb.			86400	IN	NS	de.ch-inter.net.
 mhm.bb.			86400	IN	NS	nl.ch-inter.net.
-miche.bb.		86400	IN	NS	dns1.idp365.net.
-miche.bb.		86400	IN	NS	dns2.idp365.net.
 michebag.bb.		86400	IN	NS	dns1.idp365.net.
 michebag.bb.		86400	IN	NS	dns2.idp365.net.
 mid.bb.			86400	IN	NS	ns1.telebarbados.com.
@@ -3948,8 +3983,8 @@ mimi.bb.		86400	IN	NS	a.dnspod.com.
 mimi.bb.		86400	IN	NS	b.dnspod.com.
 mini.bb.		86400	IN	NS	a.dnspod.com.
 mini.bb.		86400	IN	NS	b.dnspod.com.
-mitwi.bb.		86400	IN	NS	ns41.domaincontrol.com.
-mitwi.bb.		86400	IN	NS	ns42.domaincontrol.com.
+mitwi.bb.		86400	IN	NS	ns11.domaincontrol.com.
+mitwi.bb.		86400	IN	NS	ns12.domaincontrol.com.
 mixnutz.bb.		86400	IN	NS	mns01.domaincontrol.com.
 mixnutz.bb.		86400	IN	NS	mns02.domaincontrol.com.
 mls.bb.			86400	IN	NS	ns1.electricvillages.ca.
@@ -4004,6 +4039,10 @@ mygildan.bb.		86400	IN	NS	ns02.trademarkarea.com.
 mygildan.bb.		86400	IN	NS	ns03.trademarkarea.com.
 mymiche.bb.		86400	IN	NS	dns1.idp365.net.
 mymiche.bb.		86400	IN	NS	dns2.idp365.net.
+myterms.bb.		86400	IN	NS	col1.caribsurf.com.
+myterms.bb.		86400	IN	NS	col2.caribsurf.com.
+mytermshp.bb.		86400	IN	NS	col1.caribsurf.com.
+mytermshp.bb.		86400	IN	NS	col2.caribsurf.com.
 mythriftclub.bb.	86400	IN	NS	col1.caribsurf.com.
 mythriftclub.bb.	86400	IN	NS	col2.caribsurf.com.
 nag.bb.			86400	IN	NS	ns1.peer1.net.
@@ -4101,12 +4140,16 @@ oms.bb.			86400	IN	NS	ns1.ipowerweb.net.
 oms.bb.			86400	IN	NS	ns2.ipowerweb.net.
 one.bb.			86400	IN	NS	a.dnspod.com.
 one.bb.			86400	IN	NS	b.dnspod.com.
+onepeopleonebarbados.bb. 86400	IN	NS	ns1.telebarbados.com.
+onepeopleonebarbados.bb. 86400	IN	NS	ns2.telebarbados.com.
+onerepublic.bb.		86400	IN	NS	ns1.246host.net.
+onerepublic.bb.		86400	IN	NS	ns2.246host.net.
 online.bb.		86400	IN	NS	ns1.101domain.com.
 online.bb.		86400	IN	NS	ns2.101domain.com.
-onlinepoker.bb.		86400	IN	NS	pdns1.ultradns.net.
-onlinepoker.bb.		86400	IN	NS	pdns2.ultradns.net.
 onlinepoker.bb.		86400	IN	TXT	"pdns1.utradns.net."
 onlinepoker.bb.		86400	IN	TXT	"pdns2.utradns.net."
+onlinepoker.bb.		86400	IN	NS	pdns1.ultradns.net.
+onlinepoker.bb.		86400	IN	NS	pdns2.ultradns.net.
 ooo.bb.			86400	IN	NS	a.dnspod.com.
 ooo.bb.			86400	IN	NS	b.dnspod.com.
 opa.bb.			86400	IN	NS	name1.sunbeach.net.
@@ -4121,6 +4164,10 @@ organogold.bb.		86400	IN	NS	ns02.trademarkarea.com.
 organogold.bb.		86400	IN	NS	ns03.trademarkarea.com.
 osi.bb.			86400	IN	NS	ns3.zoneedit.com.
 osi.bb.			86400	IN	NS	ns8.zoneedit.com.
+otbge.bb.		86400	IN	NS	ns.rackspace.com.
+otbge.bb.		86400	IN	NS	ns2.rackspace.com.
+otbgei.bb.		86400	IN	NS	ns.rackspace.com.
+otbgei.bb.		86400	IN	NS	ns2.rackspace.com.
 otbglobal.bb.		86400	IN	NS	ns.rackspace.com.
 otbglobal.bb.		86400	IN	NS	ns2.rackspace.com.
 otbglobalenterprises.bb. 86400	IN	NS	ns.rackspace.com.
@@ -4177,6 +4224,8 @@ pet.bb.			86400	IN	NS	b.dnspod.com.
 petergsymmondsLaw.bb.	86400	IN	NS	ch.ch-inter.net.
 petergsymmondsLaw.bb.	86400	IN	NS	de.ch-inter.net.
 petergsymmondsLaw.bb.	86400	IN	NS	nl.ch-inter.net.
+peterphillips.bb.	86400	IN	NS	ns8043.hostgator.com.
+peterphillips.bb.	86400	IN	NS	ns8044.hostgator.com.
 pgslaw.bb.		86400	IN	NS	ch.ch-inter.net.
 pgslaw.bb.		86400	IN	NS	de.ch-inter.net.
 pgslaw.bb.		86400	IN	NS	nl.ch-inter.net.
@@ -4254,8 +4303,8 @@ pro.bb.			86400	IN	NS	a.dnspod.com.
 pro.bb.			86400	IN	NS	b.dnspod.com.
 product.bb.		86400	IN	NS	a.dnspod.com.
 product.bb.		86400	IN	NS	b.dnspod.com.
-profilescaribbean.bb.	86400	IN	NS	ns2441.hostgator.com.
-profilescaribbean.bb.	86400	IN	NS	ns2442.hostgator.com.
+profilescaribbean.bb.	86400	IN	NS	ns1.bdm.microsoftonline.com.
+profilescaribbean.bb.	86400	IN	NS	ns2.bdm.microsoftonline.com.
 project.bb.		86400	IN	NS	a.dnspod.com.
 project.bb.		86400	IN	NS	b.dnspod.com.
 prollenium.bb.		86400	IN	NS	ns9.caribyte.net.
@@ -4336,7 +4385,6 @@ red.bb.			86400	IN	NS	ns3.no-ip.com.
 red.bb.			86400	IN	NS	ns4.no-ip.com.
 red.bb.			86400	IN	NS	ns5.no-ip.com.
 redbull.bb.		86400	IN	NS	pdns91.ultradns.biz.
-redbull.bb.		86400	IN	NS	pdns91.ultradns.com.
 redbull.bb.		86400	IN	NS	pdns91.ultradns.net.
 redbull.bb.		86400	IN	NS	pdns91.ultradns.org.
 reeceassociates.bb.	86400	IN	NS	mns01.domaincontrol.com.
@@ -4466,6 +4514,8 @@ secondstreet.bb.	86400	IN	NS	name1.sunbeach.net.
 secondstreet.bb.	86400	IN	NS	name2.sunbeach.net.
 secureshred.bb.		86400	IN	NS	a.dns.hostway.net.
 secureshred.bb.		86400	IN	NS	b.dns.hostway.net.
+see.bb.			86400	IN	NS	ns1.dnsdate.com.
+see.bb.			86400	IN	NS	ns2.dnsdate.com.
 seo.bb.			86400	IN	NS	a.dnspod.com.
 seo.bb.			86400	IN	NS	b.dnspod.com.
 servier.bb.		86400	IN	NS	dns1.emarkmonitor.com.
@@ -4485,6 +4535,8 @@ shanghai.bb.		86400	IN	NS	pns4.cloudns.net.
 shanghai.bb.		86400	IN	NS	pns7.cloudns.net.
 share.bb.		86400	IN	NS	a.dnspod.com.
 share.bb.		86400	IN	NS	b.dnspod.com.
+she.bb.			86400	IN	NS	ns1.dnsdate.com.
+she.bb.			86400	IN	NS	ns2.dnsdate.com.
 shi.bb.			86400	IN	NS	pns1.cloudns.net.
 shi.bb.			86400	IN	NS	pns4.cloudns.net.
 shi.bb.			86400	IN	NS	pns7.cloudns.net.
@@ -4539,6 +4591,8 @@ skymall.bb.		86400	IN	NS	ns1.williamsind.com.
 skymall.bb.		86400	IN	NS	ns2.williamsind.com.
 smallbusinessapproved.bb. 86400	IN	NS	ns1.bimbarbados.com.
 smallbusinessapproved.bb. 86400	IN	NS	ns2.bimbarbados.com.
+sms.bb.			86400	IN	NS	ns4015.hostgator.com.
+sms.bb.			86400	IN	NS	ns4016.hostgator.com.
 sociallysavvy.bb.	86400	IN	NS	ns49.domaincontrol.com.
 sociallysavvy.bb.	86400	IN	NS	ns50.domaincontrol.com.
 soft.bb.		86400	IN	NS	a.dnspod.com.
@@ -4567,6 +4621,10 @@ sss.bb.			86400	IN	NS	pns4.cloudns.net.
 sss.bb.			86400	IN	NS	pns7.cloudns.net.
 standard.bb.		86400	IN	NS	col1.caribsurf.com.
 standard.bb.		86400	IN	NS	col2.caribsurf.com.
+standarddistributors.bb. 86400	IN	NS	col1.caribsurf.com.
+standarddistributors.bb. 86400	IN	NS	col2.caribsurf.com.
+standards.bb.		86400	IN	NS	col1.caribsurf.com.
+standards.bb.		86400	IN	NS	col2.caribsurf.com.
 stansfeldscott.bb.	86400	IN	NS	ns1.fullcontrol.net.
 stansfeldscott.bb.	86400	IN	NS	ns2.fullcontrol.net.
 starbucks.bb.		86400	IN	NS	a4.nstld.com.
@@ -4715,6 +4773,8 @@ tmr.bb.			86400	IN	NS	ns1.lunariffic.com.
 tmr.bb.			86400	IN	NS	ns2.lunariffic.com.
 tokmakjian.bb.		86400	IN	NS	col1.caribsurf.com.
 tokmakjian.bb.		86400	IN	NS	col2.caribsurf.com.
+tokyogold.bb.		86400	IN	NS	ns1.hostmonster.com.
+tokyogold.bb.		86400	IN	NS	ns2.hostmonster.com.
 tom.bb.			86400	IN	NS	pns1.cloudns.net.
 tom.bb.			86400	IN	NS	pns4.cloudns.net.bb.
 tom.bb.			86400	IN	NS	pns7.cloudns.net.
@@ -4734,6 +4794,8 @@ tophealth.bb.		86400	IN	NS	ns4.nutracorp.com.
 tophealth.bb.		86400	IN	NS	ns5.nutracorp.com.
 topupandgo.bb.		86400	IN	NS	ns1.thewebservers.net.
 topupandgo.bb.		86400	IN	NS	ns2.thewebservers.net.
+torinoreinsurance.bb.	86400	IN	NS	ns1.nikoniqdesigns.com.
+torinoreinsurance.bb.	86400	IN	NS	ns2.nikoniqdesigns.com.
 toshiba.bb.		86400	IN	NS	rns1.rightsdns.com.
 toshiba.bb.		86400	IN	NS	rns2.rightsdns.com.
 tou.bb.			86400	IN	NS	a.dnspod.com.
@@ -4764,6 +4826,8 @@ toys.bb.		86400	IN	NS	b.dnspod.com.
 tradeteam.bb.		86400	IN	NS	ns1.engineinternet.com.
 tradeteam.bb.		86400	IN	NS	ns2.engineinternet.com.
 tradeteam.bb.		86400	IN	NS	ns3.engineinternet.com.
+traffic.bb.		86400	IN	NS	ns1.xstreamservices.org.
+traffic.bb.		86400	IN	NS	ns2.xstreamservices.org.
 transnationalmedical.bb. 86400	IN	NS	dns1.idp365.net.
 transnationalmedical.bb. 86400	IN	NS	dns2.idp365.net.
 transnationalmedicalcare.bb. 86400 IN	NS	dns1.idp365.net.
@@ -4778,6 +4842,8 @@ tridentlearning.bb.	86400	IN	NS	ns1.remote-learner.net.
 tridentlearning.bb.	86400	IN	NS	ns2.remote-learner.net.
 tripleclicks.bb.	86400	IN	NS	ns1.vm1036.sgvps.net.
 tripleclicks.bb.	86400	IN	NS	ns2.vm1036.sgvps.net.
+tropikids.bb.		86400	IN	NS	ns0.wixdns.net.
+tropikids.bb.		86400	IN	NS	ns1.wixdns.net.
 tsmall.bb.		86400	IN	NS	a.dnspod.com.
 tsmall.bb.		86400	IN	NS	b.dnspod.com.
 ttt.bb.			86400	IN	NS	pns1.cloudns.net.
@@ -4852,8 +4918,8 @@ venu.bb.		86400	IN	NS	a4.nstld.com.
 venu.bb.		86400	IN	NS	f4.nstld.com.
 very.bb.		86400	IN	NS	a.dnspod.com.
 very.bb.		86400	IN	NS	b.dnspod.com.
-vfp.bb.			86400	IN	NS	ns1.siteground317.com.
-vfp.bb.			86400	IN	NS	ns2.siteground317.com.
+vfp.bb.			86400	IN	NS	ns1.siteground359.com.
+vfp.bb.			86400	IN	NS	ns2.siteground359.com.
 victoria-secret.bb.	86400	IN	NS	ns1.1bidts.com.
 victoria-secret.bb.	86400	IN	NS	ns2.1bidts.com.
 victoria-secrets.bb.	86400	IN	NS	ns1.lbidts.com.
@@ -4890,6 +4956,8 @@ vip.bb.			86400	IN	NS	f1g1ns1.dnspod.net.
 vip.bb.			86400	IN	NS	f1g1ns2.dnspod.net.
 virtualoffice.bb.	86400	IN	NS	col1.caribsurf.com.
 virtualoffice.bb.	86400	IN	NS	col2.caribsurf.com.
+vmek.bb.		86400	IN	NS	ns.rackspace.com.
+vmek.bb.		86400	IN	NS	ns2.rackspace.com.
 vns.bb.			86400	IN	NS	f1g1ns1.dnspod.net.
 vns.bb.			86400	IN	NS	f1g1ns2.dnspod.net.
 vnsr.bb.		86400	IN	NS	pns1.cloudns.net.
@@ -4936,6 +5004,8 @@ wawa.bb.		86400	IN	NS	a.dnspod.com.
 wawa.bb.		86400	IN	NS	b.dnspod.com.
 we.bb.			86400	IN	NS	ns1.p10.dynect.net.
 we.bb.			86400	IN	NS	ns2.p10.dynect.net.
+weather.bb.		86400	IN	NS	ns73a.turnkeywebspace.com.
+weather.bb.		86400	IN	NS	ns73b.turnkeywebspace.com.
 web.bb.			86400	IN	NS	ns1.dreamhost.com.
 web.bb.			86400	IN	NS	ns2.dreamhost.com.
 webdesign.bb.		86400	IN	NS	ns1.digitalocean.com.
@@ -5060,6 +5130,8 @@ wns.bb.			86400	IN	NS	pns4.cloudns.net.
 wns.bb.			86400	IN	NS	pns7.cloudns.net.
 wnsr.bb.		86400	IN	NS	f1g1ns1.dnspod.net.
 wnsr.bb.		86400	IN	NS	f1g1ns2.dnspod.net.
+wsh.bb.			86400	IN	NS	ns-cloud-a1.googledomains.com.
+wsh.bb.			86400	IN	NS	ns-cloud-a2.googledomains.com.
 wtw.bb.			86400	IN	NS	pdns1.ultradns.net.
 wtw.bb.			86400	IN	NS	pdns2.ultradns.net.
 wtw.bb.			86400	IN	NS	pdns3.ultradns.org.
@@ -5227,6 +5299,10 @@ xnightlife.bb.		86400	IN	NS	ns33.domaincontrol.com.
 xnightlife.bb.		86400	IN	NS	ns34.domaincontrol.com.
 xnorquest.bb.		86400	IN	NS	col1.caribsurf.com.
 xnorquest.bb.		86400	IN	NS	col2.caribsurf.com.
+xnxx.bb.		86400	IN	NS	ns1.serverstack.com.
+xnxx.bb.		86400	IN	NS	ns2.serverstack.com.
+xnxx.bb.		86400	IN	NS	ns3.serverstack.com.
+xnxx.bb.		86400	IN	NS	ns4.serverstack.com.
 xoceanadventures.bb.	86400	IN	NS	ns1.mendesco.net.
 xoceanadventures.bb.	86400	IN	NS	ns2.mendesco.net.
 xonlinemarketingsolutions.bb. 86400 IN	NS	ns10.dnsmadeeasy.com.
@@ -5294,25 +5370,23 @@ xvictoriassecretpink.bb. 86400	IN	NS	g4.nstld.com.
 xvictoriassecretpink.bb. 86400	IN	NS	l4.nstld.com.
 xvideo.bb.		86400	IN	NS	a.dnspod.com.
 xvideo.bb.		86400	IN	NS	b.dnspod.com.
+xvideos.bb.		86400	IN	NS	ns1.serverstack.com.
+xvideos.bb.		86400	IN	NS	ns2.serverstack.com.
+xvideos.bb.		86400	IN	NS	ns3.serverstack.com.
+xvideos.bb.		86400	IN	NS	ns4.serverstack.com.
 xvspink.bb.		86400	IN	NS	a4.nstld.com.
 xvspink.bb.		86400	IN	NS	f4.nstld.com.
 xvspink.bb.		86400	IN	NS	g4.nstld.com.
 xxbancodobrasil.bb.	86400	IN	NS	ns1.locaweb.com.br.
 xxbancodobrasil.bb.	86400	IN	NS	ns2.locaweb.com.br.
-xxbee.bb.		86400	IN	NS	ns41.hostforweb.net.
 xxbrendanbermingham.bb.	86400	IN	NS	ns01.trademarkarea.com.
 xxbrendanbermingham.bb.	86400	IN	NS	ns02.trademarkarea.com.
-xxfit.bb.		86400	IN	NS	f2.de.ha-dns.net.
-xxfit.bb.		86400	IN	NS	ka2.de.ha-dns.net.
-xxfit.bb.		86400	IN	NS	lxa.us.ha-dns.net.
 xxnovussealing.bb.	86400	IN	NS	ns01.trademarkarea.com.
 xxnovussealing.bb.	86400	IN	NS	ns03.trademarkarea.com.
 xxnovussealing.bb.	86400	IN	NS	pdns91.ultradns.com.
 xxoo.bb.		86400	IN	NS	pns1.cloudns.net.
 xxoo.bb.		86400	IN	NS	pns4.cloudns.net.
 xxoo.bb.		86400	IN	NS	pns7.cloudns.net.
-xxthebbgroup.bb.	86400	IN	NS	ns01.trademarkarea.com.
-xxthebbgroup.bb.	86400	IN	NS	ns02.trademarkarea.com.
 xxx.bb.			86400	IN	NS	f1g1ns1.dnspod.net.
 xxx.bb.			86400	IN	NS	f1g1ns2.dnspod.net.
 xxxquantum.bb.		86400	IN	NS	ns.myhosting.com.
@@ -5363,8 +5437,8 @@ you.bb.			86400	IN	NS	a.dnspod.com.
 you.bb.			86400	IN	NS	b.dnspod.com.
 yourmands.bb.		86400	IN	NS	ns.domainnetwork.se.
 yourmands.bb.		86400	IN	NS	ns2.domainnetwork.se.
-youthbusiness.bb.	86400	IN	NS	ns1.softlayer.com.
-youthbusiness.bb.	86400	IN	NS	ns2.softlayer.com.
+youthbusiness.bb.	86400	IN	NS	ns1.digitalocean.com.
+youthbusiness.bb.	86400	IN	NS	ns2.digitalocean.com.
 youxi.bb.		86400	IN	NS	a.dnspod.com.
 youxi.bb.		86400	IN	NS	b.dnspod.com.
 ysb.bb.			86400	IN	NS	a.dnspod.com.
@@ -5428,4 +5502,4 @@ zzz.bb.			86400	IN	NS	pns7.cloudns.net.
 zzzz.bb.		86400	IN	NS	pns1.cloudns.net.
 zzzz.bb.		86400	IN	NS	pns4.cloudns.net.
 zzzz.bb.		86400	IN	NS	pns7.cloudns.net.
-bb.			86400	IN	SOA	ns1.barbadosdomain.net. hostmaster.barbadosdomain.net. 2008031450 3600 1800 604800 43200
+bb.			86400	IN	SOA	ns1.barbadosdomain.net. hostmaster.barbadosdomain.net. 2008031589 3600 1800 604800 43200

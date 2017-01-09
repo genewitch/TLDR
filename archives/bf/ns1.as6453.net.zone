@@ -1,7 +1,7 @@
 
 ; <<>> DiG 9.9.5-3ubuntu0.8-Ubuntu <<>> AXFR bf. @ns1.as6453.net. +nocomments +nocmd +noquestion +nostats +time=15
 ;; global options: +cmd
-bf.			172800	IN	SOA	nahouri.onatel.bf. hostmaster.onatel.bf. 2016091502 28800 7200 1209600 10800
+bf.			172800	IN	SOA	nahouri.onatel.bf. hostmaster.onatel.bf. 2017010603 28800 7200 1209600 10800
 bf.			172800	IN	NS	ns1.as6453.net.
 bf.			172800	IN	NS	ns2.as6453.net.
 bf.			172800	IN	NS	nahouri.onatel.bf.
@@ -93,6 +93,8 @@ africanet.bf.		172800	IN	NS	ns16.zoneedit.com.
 amani.africangallery.bf. 172800	IN	NS	koulouba.cenatrin.bf.
 africashop.bf.		172800	IN	NS	ns1.cetsi.fr.
 africashop.bf.		172800	IN	NS	ns2.cetsi.eu.
+africatechnology.bf.	172800	IN	NS	a.dns.gandi.net.
+africatechnology.bf.	172800	IN	NS	b.dns.gandi.net.
 africatrades.bf.	172800	IN	NS	ns15.zoneedit.com.
 africatrades.bf.	172800	IN	NS	ns16.zoneedit.com.
 africom.bf.		172800	IN	NS	ns.fasonet.bf.
@@ -220,6 +222,7 @@ appuiauxentreprises.bf.	172800	IN	NS	oubri.gov.bf.
 aprascom2005.bf.	172800	IN	NS	ns.fasonet.bf.
 apred.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 apred.bf.		172800	IN	NS	ns1618.websitewelcome.com.
+apromath.bf.		172800	IN	NS	ns.fasonet.bf.
 apsb.bf.		172800	IN	NS	ns110.ovh.net.
 apsb.bf.		172800	IN	NS	dns110.ovh.net.
 apsfd-burkina.bf.	172800	IN	NS	ns.oxito.com.
@@ -408,6 +411,7 @@ camco.bf.		172800	IN	NS	ns2.inmotionhosting.com.
 cameg.bf.		172800	IN	NS	ns.fasonet.bf.
 canal-plus.bf.		172800	IN	NS	a.ns.mailclub.fr.
 canal-plus.bf.		172800	IN	NS	b.ns.mailclub.eu.
+canal3.bf.		172800	IN	NS	ns.fasonet.bf.
 canalplus.bf.		172800	IN	NS	a.ns.mailclub.fr.
 canalplus.bf.		172800	IN	NS	b.ns.mailclub.eu.
 canalplus-afrique.bf.	172800	IN	NS	a.ns.mailclub.fr.
@@ -430,6 +434,10 @@ carmudi.bf.		172800	IN	NS	ns1.is-fun.net.
 carmudi.bf.		172800	IN	NS	ns2.is-fun.net.
 carmudi.bf.		172800	IN	NS	josh.ns.cloudflare.com.
 carmudi.bf.		172800	IN	NS	lady.ns.cloudflare.com.
+castel.bf.		172800	IN	NS	ns1.infomaniak.ch.
+castel.bf.		172800	IN	NS	ns2.infomaniak.ch.
+casting.bf.		172800	IN	NS	ns20.ovh.net.
+casting.bf.		172800	IN	NS	dns20.ovh.net.
 cathedralebobo.bf.	172800	IN	NS	ns14.ovh.net.
 cathedralebobo.bf.	172800	IN	NS	dns14.ovh.net.
 catholique.bf.		172800	IN	NS	ns.kimsufi.com.
@@ -448,6 +456,7 @@ ccia.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 ccia.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 ccic67.bf.		172800	IN	NS	ns.fasonet.bf.
 ccisd.bf.		172800	IN	NS	ns.fasonet.bf.
+ccse.bf.		172800	IN	NS	oubri.gov.bf.
 ccva.bf.		172800	IN	NS	oubri.gov.bf.
 cdiscount.bf.		172800	IN	NS	a4.nstld.com.
 cdiscount.bf.		172800	IN	NS	f4.nstld.com.
@@ -720,6 +729,8 @@ dpbf.bf.		172800	IN	NS	ns2.infomaniak.ch.
 dphl.bf.		172800	IN	NS	ns1.vitadomains.com.
 dphl.bf.		172800	IN	NS	ns2.vitadomains.com.
 dresco.bf.		172800	IN	NS	oubri.gov.bf.
+dufaso.bf.		172800	IN	NS	kss.majestis.com.
+dufaso.bf.		172800	IN	NS	xss.majestis.com.
 duukaan.bf.		172800	IN	NS	ns1.fasttrackdns.com.
 duukaan.bf.		172800	IN	NS	ns2.fasttrackdns.com.
 e2c.bf.			172800	IN	NS	ns.fasonet.bf.
@@ -731,6 +742,7 @@ easytaxi.bf.		172800	IN	NS	ns2.is-fun.net.
 easytv.bf.		172800	IN	NS	a.ns.mailclub.fr.
 easytv.bf.		172800	IN	NS	b.ns.mailclub.eu.
 easytv.bf.		172800	IN	NS	c.ns.mailclub.fr.
+eatontowers.bf.		172800	IN	NS	ns.fasonet.bf.
 eauburkina.bf.		172800	IN	NS	ns11.ovh.net.
 eauburkina.bf.		172800	IN	NS	dns11.ovh.net.
 eauduliptako.bf.	172800	IN	NS	ns111.ovh.net.
@@ -760,6 +772,7 @@ edifice.bf.		172800	IN	NS	ns1.afraid.org.
 edifice.bf.		172800	IN	NS	ns2.afraid.org.
 edimedia.bf.		172800	IN	NS	ns1.afraid.org.
 edimedia.bf.		172800	IN	NS	ns2.afraid.org.
+edst-univ-ouaga.bf.	172800	IN	NS	ns.fasonet.bf.
 educanet.bf.		172800	IN	NS	oubri.gov.bf.
 educarriere.bf.		172800	IN	NS	ns1.slconseil.com.
 educarriere.bf.		172800	IN	NS	ns2.slconseil.com.
@@ -796,8 +809,10 @@ emploi.bf.		172800	IN	NS	ns2.ingeny.net.
 enam.bf.		172800	IN	NS	ns13.ovh.net.
 enam.bf.		172800	IN	NS	dns13.ovh.net.
 enep.bf.		172800	IN	NS	ns1617.websitewelcome.com.
-enepbobo.bf.		172800	IN	NS	ns1.lws-hosting.net.
-enepbobo.bf.		172800	IN	NS	ns2.lws-hosting.net.
+enepbobo.bf.		172800	IN	NS	ns1.lws-hosting.biz.
+enepbobo.bf.		172800	IN	NS	ns2.lws-hosting.biz.
+enepbobo.bf.		172800	IN	NS	ns3.lwsdns.com.
+enepbobo.bf.		172800	IN	NS	ns4.lwsdns.com.
 enp.bf.			172800	IN	NS	ns1.infomaniak.ch.
 enp.bf.			172800	IN	NS	ns2.infomaniak.ch.
 ens.bf.			172800	IN	NS	oubri.gov.bf.
@@ -884,6 +899,9 @@ fasonorm.bf.		172800	IN	NS	dns1.tradepoint.bf.
 fasopages.bf.		172800	IN	NS	dns.ovh.net.
 fasopages.bf.		172800	IN	NS	ns35481.ovh.net.
 fasoplast.bf.		172800	IN	NS	ns.fasonet.bf.
+fasopro.bf.		172800	IN	NS	ns20.ovh.net.
+fasopro.bf.		172800	IN	NS	dns20.ovh.net.
+fasoren.bf.		172800	IN	NS	ns2.wacren.net.
 fasoren.bf.		172800	IN	NS	agora.univ-ouaga.bf.
 fasosecurity.bf.	172800	IN	NS	ns21.domaincontrol.com.
 fasosecurity.bf.	172800	IN	NS	ns22.domaincontrol.com.
@@ -974,7 +992,13 @@ gecom.bf.		172800	IN	NS	ns.fasonet.bf.
 ged.bf.			172800	IN	NS	ns.fasonet.bf.
 geedo.bf.		172800	IN	NS	burt.ns.cloudflare.com.
 geedo.bf.		172800	IN	NS	jade.ns.cloudflare.com.
-gendarmerie.bf.		172800	IN	NS	diban.gov.bf.
+gemco.bf.		172800	IN	NS	hosting.lga-consulting.net.
+gendarmerie.bf.		172800	IN	NS	ns.gendarmerienationale.bf.
+gendarmerienationale.bf. 172800	IN	NS	ns1.lws-hosting.org.
+gendarmerienationale.bf. 172800	IN	NS	ns2.lws-hosting.org.
+gendarmerienationale.bf. 172800	IN	NS	ns3.lws-hosting.org.
+gendarmerienationale.bf. 172800	IN	NS	ns4.lws-hosting.org.
+ns.gendarmerienationale.bf. 172800 IN	A	37.187.74.71
 generaleco.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 generaleco.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 gestoria.bf.		172800	IN	NS	ns11.ovh.net.
@@ -984,8 +1008,8 @@ getma.bf.		172800	IN	NS	ns.fasonet.bf.
 ggti.bf.		172800	IN	NS	dns1.tradepoint.bf.
 giganet.bf.		172800	IN	NS	talou.giganet.bf.
 talou.giganet.bf.	172800	IN	A	212.52.140.140
-globalsolutions.bf.	172800	IN	NS	ns1.afraid.org.
-globalsolutions.bf.	172800	IN	NS	ns2.afraid.org.
+globalsolutions.bf.	172800	IN	NS	ns1.hostpapa.com.
+globalsolutions.bf.	172800	IN	NS	ns2.hostpapa.com.
 globalteenager-org.bf.	172800	IN	NS	ns1617.websitewelcome.com.
 globalteenager-org.bf.	172800	IN	NS	ns1618.websitewelcome.com.
 globinfor.bf.		172800	IN	NS	koulouba.cenatrin.bf.
@@ -995,8 +1019,7 @@ gmail.bf.		172800	IN	NS	ns3.google.com.
 gmail.bf.		172800	IN	NS	ns4.google.com.
 gohoto.bf.		172800	IN	NS	ns10.dnsmadeeasy.com.
 gohoto.bf.		172800	IN	NS	ns11.dnsmadeeasy.com.
-goldeneagle.bf.		172800	IN	NS	ns.oxito.com.
-goldeneagle.bf.		172800	IN	NS	ns2.oxito.com.
+goldeneagle.bf.		172800	IN	NS	ns.fasonet.bf.
 goldrushburkina.bf.	172800	IN	NS	ns.goldrushburkina.bf.
 ns.goldrushburkina.bf.	172800	IN	A	206.82.130.75
 google.bf.		172800	IN	NS	ns1.google.com.
@@ -1079,7 +1102,10 @@ idc.bf.			172800	IN	NS	ns2.diboo.net.
 idri.bf.		172800	IN	NS	oubri.gov.bf.
 ids.bf.			172800	IN	NS	ns1.siteground121.com.
 ids.bf.			172800	IN	NS	ns2.siteground121.com.
+igb.bf.			172800	IN	NS	ns.fasonet.bf.
 igb.bf.			172800	IN	NS	oubri.gov.bf.
+igd.bf.			172800	IN	NS	ns52.mochahost.com.
+igd.bf.			172800	IN	NS	ns53.mochahost.com.
 univ-ouaga.igedd.bf.	172800	IN	NS	ns1.siteground204.com.
 univ-ouaga.igedd.bf.	172800	IN	NS	ns2.siteground204.com.
 igoogle.bf.		172800	IN	NS	ns1.google.com.
@@ -1151,8 +1177,8 @@ iso.bf.			172800	IN	NS	freedns1.registrar-servers.com.
 iso.bf.			172800	IN	NS	freedns2.registrar-servers.com.
 isoc.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 isoc.bf.		172800	IN	NS	ns1618.websitewelcome.com.
-ispp.bf.		172800	IN	NS	ns1.infomaniak.ch.
-ispp.bf.		172800	IN	NS	ns2.infomaniak.ch.
+ispp.bf.		172800	IN	NS	ns1.hostpapa.com.
+ispp.bf.		172800	IN	NS	ns2.hostpapa.com.
 issp.bf.		172800	IN	NS	ns.issp.bf.
 issp.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 ns.issp.bf.		172800	IN	A	212.52.150.147
@@ -1162,8 +1188,10 @@ istburkina.bf.		172800	IN	NS	ns1.malihosting.com.
 istburkina.bf.		172800	IN	NS	ns2.malihosting.com.
 itconsult.bf.		172800	IN	NS	bingo.itconsult.bf.
 bingo.itconsult.bf.	172800	IN	A	212.52.157.2
-iticc.bf.		172800	IN	NS	ns1.hosting24.com.
-iticc.bf.		172800	IN	NS	ns2.hosting24.com.
+iticc.bf.		172800	IN	NS	yahya.genious.net.
+iticc.bf.		172800	IN	NS	zakaria.genious.net.
+ixina.bf.		172800	IN	NS	ns1.network-th.fr.
+ixina.bf.		172800	IN	NS	ns3.network-th.fr.
 iyaar.bf.		172800	IN	NS	ns01.000webhost.com.
 iyaar.bf.		172800	IN	NS	ns02.000webhost.com.
 jadeproductions.bf.	172800	IN	NS	ns1.web-dns1.com.
@@ -1178,8 +1206,8 @@ jolyhotel.bf.		172800	IN	NS	dns103.ovh.net.
 josuenegoce.bf.		172800	IN	NS	ns.fasonet.bf.
 jovago.bf.		172800	IN	NS	bob.ns.cloudflare.com.
 jovago.bf.		172800	IN	NS	dana.ns.cloudflare.com.
-jumia.bf.		172800	IN	NS	ns1.is-fun.net.
-jumia.bf.		172800	IN	NS	ns2.is-fun.net.
+jumia.bf.		172800	IN	NS	ns-411.awsdns-51.com.
+jumia.bf.		172800	IN	NS	ns-1865.awsdns-41.co.uk.
 juriburkina.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 juriburkina.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 kanazoe.bf.		172800	IN	NS	ns.oxito.com.
@@ -1213,6 +1241,7 @@ kunde.bf.		172800	IN	NS	as-vps-05.asolution.fr.
 labocentre.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 labocentre.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 laboratoire-aina.bf.	172800	IN	NS	dns1.tradepoint.bf.
+lame-univ-ouaga.bf.	172800	IN	NS	ns.fasonet.bf.
 lamudi.bf.		172800	IN	NS	ns2.is-fun.net.
 lamudi.bf.		172800	IN	NS	ns1-is-fun.net.
 laposte.bf.		172800	IN	NS	ns.laposte.bf.
@@ -1236,8 +1265,8 @@ lendico.bf.		172800	IN	NS	ns1.is-fun.net.
 lendico.bf.		172800	IN	NS	ns2.is-fun.net.
 lepays.bf.		172800	IN	NS	ns.net4all-dns.com.
 lepays.bf.		172800	IN	NS	ns2.net4all-dns.com.
-leprince.bf.		172800	IN	NS	ns11.ovh.net.
-leprince.bf.		172800	IN	NS	dns11.ovh.net.
+leprince.bf.		172800	IN	NS	ks2.logisim.net.
+leprince.bf.		172800	IN	NS	ks3.logisim.net.
 leprogres.bf.		172800	IN	NS	sdns2.ovh.net.
 leprogres.bf.		172800	IN	NS	server1390.ns.planethoster.net.
 leprogres.bf.		172800	IN	NS	server1390-1.ns.planethoster.net.
@@ -1255,6 +1284,10 @@ lesbouquetscanalplus.bf. 172800	IN	NS	a.ns.mailclub.fr.
 lesbouquetscanalplus.bf. 172800	IN	NS	b.ns.mailclub.eu.
 leselites.bf.		172800	IN	NS	ns1.afraid.org.
 leselites.bf.		172800	IN	NS	ns2.afraid.org.
+leslaureats.bf.		172800	IN	NS	ns20.ovh.net.
+leslaureats.bf.		172800	IN	NS	dns20.ovh.net.
+lesoir.bf.		172800	IN	NS	ns39.boxsecured.com.
+lesoir.bf.		172800	IN	NS	ns40.boxsecured.com.
 lesrapides.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 lesrapides.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 letamtam.bf.		172800	IN	NS	ns.fasonet.bf.
@@ -1349,6 +1382,8 @@ mid.bf.			172800	IN	NS	nsc.planethoster.net.
 minicom.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 minicom.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 mioa.bf.		172800	IN	NS	oubri.gov.bf.
+missburkina.bf.		172800	IN	NS	ns196.rapidenet.ca.
+missburkina.bf.		172800	IN	NS	ns197.rapidenet.ca.
 moad.bf.		172800	IN	NS	ns16.ovh.net.
 moad.bf.		172800	IN	NS	ns19.ovh.net.
 moad.bf.		172800	IN	NS	dns16.ovh.net.
@@ -1373,6 +1408,8 @@ mouvementcar.bf.	172800	IN	NS	ns1.ipage.com.
 mouvementcar.bf.	172800	IN	NS	ns2.ipage.com.
 mouvementsunnite.bf.	172800	IN	NS	ns1.lws-hosting.biz.
 mouvementsunnite.bf.	172800	IN	NS	ns2.lws-hosting.biz.
+mpp.bf.			172800	IN	NS	ns11.infomaniak.ch.
+mpp.bf.			172800	IN	NS	ns12.infomaniak.ch.
 mpt.bf.			172800	IN	NS	oubri.gov.bf.
 msoft.bf.		172800	IN	NS	ns1.msoft.bf.
 msoft.bf.		172800	IN	NS	ns2.msoft.bf.
@@ -1488,6 +1525,8 @@ ouaga2004plus10.bf.	172800	IN	NS	ns5.wicdot.com.
 ouaga2004plus10.bf.	172800	IN	NS	ns6.wicdot.com.
 ouagafm.bf.		172800	IN	NS	ns1.afraid.org.
 ouagafm.bf.		172800	IN	NS	ns2.afraid.org.
+ouagalab.bf.		172800	IN	NS	ns1.panelboxmanager.com.
+ouagalab.bf.		172800	IN	NS	ns2.panelboxmanager.com.
 ouaganews.bf.		172800	IN	NS	ns1.ouaganews.net.
 ouaganews.bf.		172800	IN	NS	web.ouaganews.net.
 ouezena.bf.		172800	IN	NS	ns13.hostupon.com.
@@ -1539,6 +1578,8 @@ pdav.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 pdav.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 pebaso.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 pebaso.bf.		172800	IN	NS	ns1618.websitewelcome.com.
+pejdc.bf.		172800	IN	NS	ns3005323.ip-5-135-141.eu.
+pejdc.bf.		172800	IN	NS	ns3038005.ip-51-255-81.eu.
 performancepartner.bf.	172800	IN	NS	ns102.ovh.net.
 performancepartner.bf.	172800	IN	NS	dns102.ovh.net.
 petalila.bf.		172800	IN	NS	ns.petalila.bf.
@@ -1549,6 +1590,8 @@ petrofa.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 petrofa.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 petrogazservices.bf.	172800	IN	NS	ns1617.websitewelcome.com.
 petrogazservices.bf.	172800	IN	NS	ns1618.websitewelcome.com.
+petromonde.bf.		172800	IN	NS	ns20.ovh.net.
+petromonde.bf.		172800	IN	NS	dns20.ovh.net.
 peugeot.bf.		172800	IN	NS	a.dns.gandi.net.
 peugeot.bf.		172800	IN	NS	b.dns.gandi.net.
 pey.bf.			172800	IN	NS	ns111.ovh.net.
@@ -1615,8 +1658,8 @@ pst.bf.			172800	IN	NS	dns.ovh.net.
 pst.bf.			172800	IN	NS	ns3269361.ovh.net.
 pst-2.bf.		172800	IN	NS	ns.fasonet.bf.
 psvdhte.bf.		172800	IN	NS	ns.fasonet.bf.
-pubcell.bf.		172800	IN	NS	ns196.rapidenet.ca.
-pubcell.bf.		172800	IN	NS	ns197.rapidenet.ca.
+pubcell.bf.		172800	IN	NS	ns6.wixdns.net.
+pubcell.bf.		172800	IN	NS	ns7.wixdns.net.
 pyramid.bf.		172800	IN	NS	keops.pyramid.bf.
 keops.pyramid.bf.	172800	IN	A	212.52.150.139
 pyramide.bf.		172800	IN	NS	ns1.afraid.org.
@@ -1749,6 +1792,8 @@ scimpex.bf.		172800	IN	NS	ns1617.websitewelcome.com.
 scimpex.bf.		172800	IN	NS	ns1618.websitewelcome.com.
 scoopmotor.bf.		172800	IN	NS	ns1.bluehost.com.
 scoopmotor.bf.		172800	IN	NS	ns2.bluehost.com.
+scpa-kamsome.bf.	172800	IN	NS	ns1.hostpapa.com.
+scpa-kamsome.bf.	172800	IN	NS	ns2.hostpapa.com.
 scs.bf.			172800	IN	NS	bingo.itconsult.bf.
 sdi.bf.			172800	IN	NS	ns1.afraid.org.
 sdi.bf.			172800	IN	NS	ns2.afraid.org.
@@ -1804,10 +1849,14 @@ sigepburkina.bf.	172800	IN	NS	ns1.aztus.com.
 sigepburkina.bf.	172800	IN	NS	ns2.aztus.com.
 silvergoldbull.bf.	172800	IN	NS	ns1.101domain.com.
 silvergoldbull.bf.	172800	IN	NS	ns2.101domain.com.
+simaqinternational.bf.	172800	IN	NS	ns107.ovh.net.
+simaqinternational.bf.	172800	IN	NS	dns107.ovh.net.
 simeeel.bf.		172800	IN	NS	ns1.rivertelecom.com.
 simeeel.bf.		172800	IN	NS	ns2.rivertelecom.com.
-sisa.bf.		172800	IN	NS	ns1.infomaniak.ch.
-sisa.bf.		172800	IN	NS	ns2.infomaniak.ch.
+sisa.bf.		172800	IN	NS	ns11.infomaniak.ch.
+sisa.bf.		172800	IN	NS	ns12.infomaniak.ch.
+sita.bf.		172800	IN	NS	ns200.anycast.me.
+sita.bf.		172800	IN	NS	dns200.anycast.me.
 sitho.bf.		172800	IN	NS	oubri.gov.bf.
 smak-inter.bf.		172800	IN	NS	ns.fasonet.bf.
 smb.bf.			172800	IN	NS	ns.oxito.com.
@@ -1852,6 +1901,7 @@ pserver.softnet.bf.	172800	IN	A	41.78.48.67
 vm-pserver.softnet.bf.	172800	IN	A	41.78.48.71
 sogemab.bf.		172800	IN	NS	ns.fasonet.bf.
 sogesy.bf.		172800	IN	NS	ns.fasonet.bf.
+sogetel.bf.		172800	IN	NS	ns.fasonet.bf.
 solea.bf.		172800	IN	NS	ns.fasonet.bf.
 solidarburkina.bf.	172800	IN	NS	ns13.hostupon.com.
 solidarburkina.bf.	172800	IN	NS	ns14.hostupon.com.
@@ -1901,6 +1951,8 @@ splendid-hotel.bf.	172800	IN	NS	shns.splendid-hotel.bf.
 shns.splendid-hotel.bf.	172800	IN	A	212.52.145.133
 spong.bf.		172800	IN	NS	ns123.mochahost.com.
 spong.bf.		172800	IN	NS	ns2000.mochahost.com.
+sportcash.bf.		172800	IN	NS	a.dns.gandi.net.
+sportcash.bf.		172800	IN	NS	b.dns.gandi.net.
 sports.bf.		172800	IN	NS	ns.kimsufi.com.
 sports.bf.		172800	IN	NS	ks389338.kimsufi.com.
 sta.bf.			172800	IN	NS	ns.fasonet.bf.
@@ -1927,12 +1979,15 @@ t3e-innovation.bf.	172800	IN	NS	ns1.infomaniak.ch.
 t3e-innovation.bf.	172800	IN	NS	ns2.infomaniak.ch.
 tablefilierekarite.bf.	172800	IN	NS	ns1.rivertelecom.com.
 tablefilierekarite.bf.	172800	IN	NS	ns2.rivertelecom.com.
+talentys.bf.		172800	IN	NS	ns1.hostpapa.com.
+talentys.bf.		172800	IN	NS	ns2.hostpapa.com.
 tamoil.bf.		172800	IN	NS	ns.fasonet.bf.
 tanaliz.bf.		172800	IN	NS	ns.fasonet.bf.
 tangafaso.bf.		172800	IN	NS	koulouba.cenatrin.bf.
 taptopay.bf.		172800	IN	NS	ns1.101domain.com.
 taptopay.bf.		172800	IN	NS	ns2.101domain.com.
 targuetba.bf.		172800	IN	NS	ns.fasonet.bf.
+technibois.bf.		172800	IN	NS	ns.fasonet.bf.
 technico-service.bf.	172800	IN	NS	ns1617.websitewelcome.com.
 technico-service.bf.	172800	IN	NS	ns1618.websitewelcome.com.
 tedispharma.bf.		172800	IN	NS	ns105.ovh.net.
@@ -1998,7 +2053,8 @@ uabassurances.bf.	172800	IN	NS	ns.fasonet.bf.
 serveur.uacc.bf.	172800	IN	A	212.52.133.18
 uao.bf.			172800	IN	NS	ns53.domaincontrol.com.
 uao.bf.			172800	IN	NS	ns54.domaincontrol.com.
-uap-burkina.bf.		172800	IN	NS	serveur.uacc.bf.
+uap-burkina.bf.		172800	IN	NS	serveur.uap-burkina.bf.
+serveur.uap-burkina.bf.	172800	IN	A	212.52.133.18
 ubills.bf.		172800	IN	NS	ns1.101domain.com.
 ubills.bf.		172800	IN	NS	ns2.101domain.com.
 ucao-uub.bf.		172800	IN	NS	sdns2.ovh.net.
@@ -2059,6 +2115,7 @@ viberadio.bf.		172800	IN	NS	b.dns.gandi.net.
 viberadio.bf.		172800	IN	NS	c.dns.gandi.net.
 vicat.bf.		172800	IN	NS	ns2.observatoiredesmarques.fr.
 vicat.bf.		172800	IN	NS	observatoire.observatoiredesmarques.fr.
+vieconjugale.bf.	172800	IN	NS	ns.fasonet.bf.
 viennatrade.bf.		172800	IN	NS	ns.fasonet.bf.
 vieprofondeburkina.bf.	172800	IN	NS	ns1617.websitewelcome.com.
 vieprofondeburkina.bf.	172800	IN	NS	ns1618.websitewelcome.com.
@@ -2138,4 +2195,4 @@ zeph15.bf.		172800	IN	NS	ns2.lws-hosting.net.
 zoodo.bf.		172800	IN	NS	ns1.ingeny.net.
 zoodo.bf.		172800	IN	NS	ns2.ingeny.net.
 zoure.bf.		172800	IN	NS	ns.fasonet.bf.
-bf.			172800	IN	SOA	nahouri.onatel.bf. hostmaster.onatel.bf. 2016091502 28800 7200 1209600 10800
+bf.			172800	IN	SOA	nahouri.onatel.bf. hostmaster.onatel.bf. 2017010603 28800 7200 1209600 10800
